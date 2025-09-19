@@ -1,0 +1,8 @@
+<svg width="180" height="60" viewBox="0 0 180 60" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title>Technische Universität Berlin</title>
+  <rect x="0" y="0" width="180" height="60" rx="10" fill="#A41623" />
+  <path d="M36 16h22v28H36z" fill="#F4F7FB" rx="0" />
+  <path d="M32 16h6v14h-6z" fill="#F4F7FB" />
+  <path d="M62 20h18v18H62z" fill="#F4F7FB" />
+  <text x="100" y="34" font-family="'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#FDECEF">TU Berlin</text>
+</svg>

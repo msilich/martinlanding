@@ -1,0 +1,7 @@
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title>Dr. Laura Dietz</title>
+  <circle cx="80" cy="80" r="78" fill="#1B3A4B" />
+  <circle cx="80" cy="68" r="32" fill="#F8F9FA" />
+  <rect x="44" y="98" width="72" height="44" rx="18" fill="#F8F9FA" opacity="0.9" />
+  <path d="M50 58c8-12 24-22 38-22 10 0 22 6 28 18" fill="#6EA4BF" opacity="0.6" />
+</svg>

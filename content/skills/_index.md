@@ -1,53 +1,51 @@
 ---
-title: "Technical Skills"
+title: "Kompetenzen"
 date: 2025-05-19T14:56:00+01:00
 draft: false
-description: "A comprehensive overview of technical skills and expertise across various domains."
+description: "Ein Blick auf meine Schwerpunkte in Architektur, Cloud-Plattformen und Enablement."
 skill_categories:
-  - name: "Programming Languages"
+  - name: "Architektur & Strategie"
     skills:
-      - name: "JavaScript/TypeScript"
-        level: 95
-        years: "10+"
-        description: "Modern ES6+, TypeScript, React, Node.js"
-      - name: "Java"
-        level: 85
+      - name: "Cloud Target Operating Models"
+        level: 92
         years: "8+"
-        description: "Enterprise applications, Spring framework"
-      - name: "PHP"
-        level: 90
-        years: "10+"
-        description: "Laravel, Symfony, WordPress"
-      - name: "Swift/Objective-C"
-        level: 80
+        description: "Governance-Strukturen und Entscheidungsleitplanken, die Innovation und Compliance verbinden."
+      - name: "Enterprise Architektur"
+        level: 88
+        years: "9+"
+        description: "Domänen- und Integrationsarchitekturen für hybride Landschaften."
+      - name: "Security & Compliance"
+        level: 84
         years: "7+"
-        description: "iOS native development"
-      - name: "Kotlin/Java"
-        level: 75
-        years: "6+"
-        description: "Android native development"
-  - name: "Frameworks & Technologies"
+        description: "Identity, Policies und Audit Trails in regulierten Branchen verankern."
+  - name: "Cloud & Plattformen"
     skills:
-      - name: "React/React Native"
-        level: 90
-        years: "7+"
-        description: "Web and cross-platform mobile apps"
-      - name: "Node.js"
-        level: 90
-        years: "8+"
-        description: "Express, NestJS, API development"
-      - name: "AWS"
-        level: 85
+      - name: "AWS & Azure"
+        level: 86
         years: "6+"
-        description: "EC2, S3, Lambda, CloudFront, RDS"
-      - name: "Docker/Kubernetes"
-        level: 80
-        years: "5+"
-        description: "Containerization, orchestration"
-      - name: "CI/CD"
+        description: "Landing-Zones, Netzwerk-Design, Automatisierung und Kostensteuerung."
+      - name: "Kubernetes & Container-Plattformen"
         level: 90
+        years: "6+"
+        description: "GitOps, Observability, Day-2-Operationen und Plattform-SLAs."
+      - name: "Infrastructure as Code"
+        level: 88
+        years: "7+"
+        description: "Terraform, Ansible & Co. für reproduzierbare Umgebungen."
+  - name: "Enablement & Delivery"
+    skills:
+      - name: "Agile Programmsteuerung"
+        level: 85
+        years: "7+"
+        description: "OKR-, Kanban- und Scrum-Frameworks für Transformationsprogramme."
+      - name: "Team Enablement"
+        level: 87
         years: "8+"
-        description: "GitHub Actions, Jenkins, CircleCI"
+        description: "Communities of Practice, Upskilling und Change-Kommunikation."
+      - name: "Service Management"
+        level: 83
+        years: "9+"
+        description: "ITIL-orientierte Betriebsprozesse, KPIs und Incident-Response."
 ---
 
-As a technology professional, I've developed expertise across multiple technical domains throughout my career. This skills showcase highlights my technical capabilities, from programming languages to architectural patterns and methodologies.
+Technologie entfaltet ihren Wert erst, wenn Architektur, Teams und Prozesse zusammenspielen. Meine Skills bilden genau diese Schnittstellen ab.

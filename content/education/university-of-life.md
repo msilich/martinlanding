@@ -1,10 +1,10 @@
 ---
-date: '2024-08-25T09:53:42+02:00' # date in which the content is created - defaults to "today"
-title: 'University of Life'
-draft: false # set to "true" if you want to hide the content 
+date: '2024-08-25T09:53:42+02:00'
+title: 'Gesellschaftliches Engagement'
+draft: false
 
-university: "University of Life"
-year: "2012-2017"
-degree: "Bachelor of Applied Science (BASc), Electrical Engineering"
+university: "Bundesverband ehrenamtlicher Richterinnen und Richter e.V."
+year: "2018–2023"
+degree: "Ehrenamtlicher Richter im Bereich Bürgerrechte & soziales Handeln"
 
 ---

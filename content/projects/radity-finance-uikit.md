@@ -1,20 +1,18 @@
 ---
-date: '2024-08-25T09:53:42+02:00' # date in which the content is created - defaults to "today"
-title: 'Radity Finance - UI Kit'
-draft: false # set to "true" if you want to hide the content 
+date: '2024-08-25T09:53:42+02:00'
+title: 'SVA Cloud Landing Zone Accelerator'
+draft: false
 
-link: "https://www.adrianmoreno.info" # optional URL to link the logo to
+link: "#landing-zone-accelerator"
 
 params:
     button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "https://www.adrianmoreno.info"
+        btnText: "Deep Dive"
+        URL: "#contact"
     image:
-        src: "images/works/radity-finance.jpg"
-        scale: 0.5
-
-## The content is used for the description of the project
+        src: "images/works/cloud-landing-zone.png"
+        scale: 0.6
 ---
 
-We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech.
+Ein wiederverwendbarer Baukasten für regulierte Kund:innen: Referenzarchitektur, IaC-Module und Betriebsleitfäden, die den Weg in die Public Cloud beschleunigen. Governance-Aspekte wie Identity, Netzwerk und Logging sind vorkonfiguriert, bleiben aber flexibel anpassbar.

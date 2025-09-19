@@ -1,15 +1,12 @@
 ---
-date: '2024-08-25T10:22:34+02:00' # date in which the content is created - defaults to "today"
-title: 'Kanba'
-draft: false # set to "true" if you want to hide the content 
+date: '2024-08-25T10:21:48+02:00'
+title: 'Container Plattform Enablement'
+draft: false
 
-link: "https://www.adrianmoreno.info" # optional URL to link the logo to
+link: "#container-platform"
 
 params:
     logo:
-        src: "images/clients/kanba.png"
-        scale: 0.5
-
-## The content is not used (yet). If you have ideas on how to use it, 
-## you can suggest it at https://github.com/zetxek/adritian-free-hugo-theme/discussions 
+        src: "images/clients/container-platform.png"
+        scale: 0.55
 ---

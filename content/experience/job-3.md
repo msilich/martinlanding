@@ -1,19 +1,20 @@
 ---
-date: 2024-12-01T00:00:00+01:00
+date: 2019-03-01T00:00:00+01:00
 draft: false
-title: "Job #3"
-jobTitle: "CIO"
-company: "Internet Affairs Inc. "
-location: "Stavanger, Norway"
-duration: "2024-now"
-
+title: "IT-Supporttechniker"
+jobTitle: "IT-Supporttechniker"
+company: "Technische Universität Berlin"
+location: "Berlin, Deutschland"
+duration: "März 2019 – Juni 2021"
+companyLogo: "images/experience/tu-berlin.png"
 ---
-## 3rd job: CIO
+## Technische Universität Berlin – IT-Centrum Fakultät I
 
-As Chief Information Officer at Internet Affairs Inc., I lead the strategic transformation of our digital infrastructure and cybersecurity initiatives. My team of 150+ IT professionals works tirelessly to protect and optimize our global network spanning 23 countries.
+Als IT-Supporttechniker habe ich Studierende, Lehrstühle und Forschungsteams mit reibungslosen IT-Services versorgt. Die Mischung aus operativem Support und projektbezogenen Aufgaben war die beste Schule für pragmatische Lösungen.
 
-During my tenure, I've spearheaded the implementation of a revolutionary blockchain-based verification system that reduced fraudulent transactions by 87% while improving processing speeds by 300%. This initiative saved the company $12M annually and earned us the prestigious "Digital Innovation Award 2024".
+- Betreuung von Client- und Serversystemen in einem heterogenen Umfeld (Windows, Linux, macOS)
+- Automatisierung von Routineaufgaben mittels Skripten und Konfigurationsmanagement
+- Planung und Umsetzung von Rollouts sowie Dokumentation für Service-Desk-Teams
+- Schulung von Kolleg:innen und studentischen Hilfskräften
 
-I'm particularly proud of our "Green Computing" program which has successfully migrated 75% of our data centers to renewable energy sources. This environmental initiative not only reduced our carbon footprint by 45% but also resulted in a 30% reduction in operational costs.
-
-In my role, I also serve as a member of the executive board, helping shape the company's long-term technology vision and ensuring our IT strategy aligns perfectly with our business objectives. Currently leading an ambitious AI integration project that promises to revolutionize our customer service capabilities.
+Hier habe ich gelernt, wie wichtig verlässliche Plattformen und gute Kommunikation für Digitalisierungsvorhaben sind.

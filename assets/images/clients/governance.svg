@@ -1,0 +1,13 @@
+<svg width="220" height="70" viewBox="0 0 220 70" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title>Governance &amp; Compliance</title>
+  <rect rx="12" ry="12" x="1" y="1" width="218" height="68" fill="#13293D" />
+  <g transform="translate(28 18)" stroke="#F3A712" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M0 26h44" />
+    <path d="M22 0v43" />
+    <circle cx="22" cy="11" r="11" fill="#F3A712" opacity="0.15" />
+    <path d="M60 6h32l8 11-8 11H60z" fill="#F3A712" opacity="0.12" />
+    <path d="M66 11h20" />
+    <path d="M66 17h14" />
+  </g>
+  <text x="136" y="43" font-family="'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#F4F7FB" text-anchor="middle">Governance</text>
+</svg>

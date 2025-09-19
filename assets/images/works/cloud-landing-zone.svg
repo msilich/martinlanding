@@ -1,0 +1,36 @@
+<svg width="540" height="360" viewBox="0 0 540 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title>Cloud Landing Zone Blueprint</title>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B3954" />
+      <stop offset="100%" stop-color="#1F6F8B" />
+    </linearGradient>
+    <linearGradient id="grid" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58B4AE" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#9ADFD3" stop-opacity="0.7" />
+    </linearGradient>
+  </defs>
+  <rect width="540" height="360" rx="24" fill="url(#bg)" />
+  <g stroke="url(#grid)" stroke-width="1" opacity="0.45">
+    <path d="M40 80h460" />
+    <path d="M40 140h460" />
+    <path d="M40 200h460" />
+    <path d="M40 260h460" />
+    <path d="M120 40v280" />
+    <path d="M220 40v280" />
+    <path d="M320 40v280" />
+    <path d="M420 40v280" />
+  </g>
+  <g fill="#F4F7FB" opacity="0.9">
+    <path d="M160 225c-20 0-36-16-36-36 0-16 10-29 25-34 5-15 20-26 37-26 19 0 36 13 39 30 18 3 32 18 32 37 0 21-17 38-38 38h-59z" fill="#8EE3F5" opacity="0.7" />
+  </g>
+  <g transform="translate(260 120)">
+    <rect width="140" height="40" rx="8" fill="#FFC857" />
+    <rect y="60" width="140" height="40" rx="8" fill="#E9724C" />
+    <rect y="120" width="140" height="40" rx="8" fill="#43BF9F" />
+    <text x="70" y="26" text-anchor="middle" font-family="'Inter', 'Helvetica Neue', Arial" font-size="16" font-weight="600" fill="#0B1D26">Identity</text>
+    <text x="70" y="86" text-anchor="middle" font-family="'Inter', 'Helvetica Neue', Arial" font-size="16" font-weight="600" fill="#0B1D26">Netzwerk</text>
+    <text x="70" y="146" text-anchor="middle" font-family="'Inter', 'Helvetica Neue', Arial" font-size="16" font-weight="600" fill="#0B1D26">Monitoring</text>
+  </g>
+  <text x="270" y="320" text-anchor="middle" font-family="'Inter', 'Helvetica Neue', Arial" font-size="22" fill="#EAF6F6">Landing Zone Accelerator</text>
+</svg>

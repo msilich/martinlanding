@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on</title><link>http://localhost:1313/home/</link><description>Recent content in Homes on</description><generator>Hugo</generator><language>en</language><atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Home</title><link>http://localhost:1313/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on</title><link>https://martinkoltonowski.de/home/</link><description>Recent content in Homes on</description><generator>Hugo</generator><language>de</language><atom:link href="https://martinkoltonowski.de/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Home</title><link>https://martinkoltonowski.de/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://martinkoltonowski.de/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
  &lt;div id="main-content"&gt;
  
 
@@ -8,14 +8,22 @@
  &lt;div class="showcase-section row flex-column-reverse flex-md-row rad-fade-down rad-waiting rad-animate"&gt;
  &lt;div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6"&gt;
  &lt;h1 class="display-1"&gt;
- Showcase section
+ Martin Koltonowski
  &lt;/h1&gt;
  &lt;h2 class="display-5"&gt;
- &lt;span&gt;Subtitle - coming from &lt;code&gt;home.md&lt;/code&gt;&lt;/span&gt;
+ &lt;span&gt;Zukunft bauen, Wolken navigieren&lt;/span&gt;
  &lt;/h2&gt;
  &lt;div class="lead"&gt;
- &lt;strong&gt;Strong&lt;/strong&gt;, &lt;em&gt;italic&lt;/em&gt; and normal text. This comes from &lt;a href='https://github.com/zetxek/adritian-demo/blob/main/content/home/home.md?plain=1'&gt;&lt;code&gt;home.md&lt;/code&gt;&lt;/a&gt;, using the &lt;code&gt;showcase-section&lt;/code&gt; &lt;a href=''&gt;shortcode&lt;/a&gt;.&lt;br/&gt;Below you can see the social links, provided by the &lt;code&gt;platform-links&lt;/code&gt; shortcode.
+ &lt;p&gt;Senior IT-Berater bei &lt;strong&gt;SVA System Vertrieb Alexander GmbH&lt;/strong&gt; in Berlin. Ich gestalte tragfähige IT-Architekturen, bringe Container-Plattformen in Produktion und begleite Teams auf ihrem Weg in die Cloud.&lt;/p&gt;&lt;p&gt;Mein Kompass: klare Governance, automatisierte Plattformen und eine Kultur, die Veränderungen verlässlich trägt.&lt;/p&gt;
  &lt;/div&gt;
+ 
+ &lt;a
+ href="https://www.linkedin.com/in/martin-koltonowski-6a8257152/"
+ class="btn btn-primary"
+ &gt;
+ &lt;i class="icon-linkedin"&gt;&lt;/i&gt;
+ LinkedIn Profil
+ &lt;/a&gt;
  
  &lt;/div&gt;
  &lt;div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 profile-image"&gt;
@@ -43,14 +51,14 @@
  
  
 
- &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_d37b8c855bc40569.webp 1x, http://localhost:1313/images/showcase/showcase_hu_bb220d2f819b63f2.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_36a7c350e756fdba.png 1x, http://localhost:1313/images/showcase/showcase_hu_55c9d46ab35228bc.png 2x" type="image/png"&gt;
+ &lt;source srcset="https://martinkoltonowski.de/images/showcase/martin-koltonowski_hu_49806fbceac08e8f.webp 1x, https://martinkoltonowski.de/images/showcase/martin-koltonowski_hu_453dfa499589cea1.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="https://martinkoltonowski.de/images/showcase/martin-koltonowski_hu_707783a5ac673129.jpg 1x, https://martinkoltonowski.de/images/showcase/martin-koltonowski_hu_a3254384869aa59e.jpg 2x" type="image/jpeg"&gt;
 
  &lt;img
- width="790"
- height="768"
+ width="340"
+ height="340"
  class="lozad img-responsive "
- data-src="http://localhost:1313/images/showcase/showcase_hu_36a7c350e756fdba.png"
+ data-src="https://martinkoltonowski.de/images/showcase/martin-koltonowski_hu_707783a5ac673129.jpg"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -75,193 +83,12 @@
  
  
  &lt;a
- href="https://facebook.com/yourpage"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="square-facebook"
- &gt;&lt;i class="icon-square-facebook"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
- 
- 
- &lt;a
- href="https://twitter.com/yourpage"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="square-twitter"
- &gt;&lt;i class="icon-square-twitter"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
- 
- 
- &lt;a
- href="https://www.linkedin.com/in/adrianmoreno/"
+ href="https://www.linkedin.com/in/martin-koltonowski-6a8257152/"
  target="_blank"
  rel="noopener noreferrer"
  aria-label="linkedin"
  &gt;&lt;i class="icon-linkedin"&gt;&lt;/i&gt;
  &lt;/a&gt;
-
- 
- 
- &lt;a
- href="https://github.com/zetxek"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="square-github"
- &gt;&lt;i class="icon-square-github"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
- 
- 
- &lt;a
- href="https://twitter.com/zetxek"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="x-twitter"
- &gt;&lt;i class="icon-x-twitter"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
- 
- 
- &lt;a
- href="http://localhost:1313/"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="dribbble"
- &gt;&lt;i class="icon-dribbble"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
- 
- 
- &lt;a
- href="http://localhost:1313/"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="behance"
- &gt;&lt;i class="icon-behance"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
- 
- 
- &lt;a
- href="http://localhost:1313/"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="youtube"
- &gt;&lt;i class="icon-youtube"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
- 
- 
- &lt;a
- href="https://www.instagram.com/zetxek/"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="instagram"
- &gt;&lt;i class="icon-instagram"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
- 
- 
- &lt;a
- href="https://www.facebook.com/zetxek/"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="square-facebook"
- &gt;&lt;i class="icon-square-facebook"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
- 
- 
- &lt;a
- href="http://localhost:1313/"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="codepen"
- &gt;&lt;i class="icon-codepen"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
- 
- 
- &lt;a
- href="https://www.yelp.com/"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="yelp"
- &gt;&lt;i class="icon-yelp"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
- 
- 
- &lt;a
- href="https://www.bluesky.com/"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="bluesky"
- &gt;&lt;i class="icon-bluesky"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
- 
- 
- &lt;a
- href="https://www.threads.net/"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="threads"
- &gt;&lt;i class="icon-threads"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
- 
- 
- &lt;a
- href="https://www.adrianmoreno.info/"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="face-smile"
- &gt;&lt;i class="icon-face-smile"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
- 
- 
- &lt;a
- href="https://www.adrianmoreno.info/"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="user"
- &gt;&lt;i class="icon-user"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
- 
- 
- &lt;a
- href="https://www.adrianmoreno.info/"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="quote-left"
- &gt;&lt;i class="icon-quote-left"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
- 
- 
- &lt;a
- href="https://www.adrianmoreno.info/"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="cloud-arrow-down"
- &gt;&lt;i class="icon-cloud-arrow-down"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
- 
- 
- &lt;a
- href="https://www.adrianmoreno.info/"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="square-xing"
- &gt;&lt;i class="icon-square-xing"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
 
 &lt;/div&gt;
  &lt;/div&gt;
@@ -323,14 +150,14 @@
  
  
 
- &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_2f52adf1036cedb3.webp 1x, http://localhost:1313/images/about/user-picture_hu_d54a2b04e5adc1b7.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_d9e9c9f4ef07df5a.png 1x, http://localhost:1313/images/about/user-picture_hu_97093cd7b236a5f0.png 2x" type="image/png"&gt;
+ &lt;source srcset="https://martinkoltonowski.de/images/about/martin-koltonowski_hu_21988f4a221c65c7.webp 1x, https://martinkoltonowski.de/images/about/martin-koltonowski_hu_b45e66a39594455a.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="https://martinkoltonowski.de/images/about/martin-koltonowski_hu_740a7ba5c68e5746.jpg 1x, https://martinkoltonowski.de/images/about/martin-koltonowski_hu_e22d776cdd6f951c.jpg 2x" type="image/jpeg"&gt;
 
  &lt;img
- width="561"
- height="535"
+ width="360"
+ height="360"
  class="lozad img-responsive image-left-overflow"
- data-src="http://localhost:1313/images/about/user-picture_hu_d9e9c9f4ef07df5a.png"
+ data-src="https://martinkoltonowski.de/images/about/martin-koltonowski_hu_740a7ba5c68e5746.jpg"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -339,294 +166,7 @@
  &lt;/picture&gt;
 
  &lt;/div&gt;
- &lt;div class="col-12 col-md-6 my-auto"&gt;
- &lt;h1&gt;About me&lt;/h1&gt;
+ &lt;div class="col-12 col-md-6"&gt;
+ &lt;h1&gt;Über Martin&lt;/h1&gt;
  &lt;div class="about-me content lead"&gt;
- This content is using the &lt;code&gt;about-section&lt;/code&gt; shortcode. &lt;br/&gt;You can write &lt;code&gt;HTML&lt;/code&gt;, as long as you &lt;em&gt;wrap it&lt;/em&gt; accordingly. 
- &lt;/div&gt;
- 
- &lt;a href="http://localhost:1313/skills" target="_blank" class="btn btn-primary"&gt;
- &lt;i class="icon-user"&gt;&lt;/i&gt;
- Check my skills
- &lt;/a&gt;
- 
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-
-
-
-
-&lt;section
- id="education"
- class="section section--border-bottom rad-animation-group"
-&gt;
- &lt;div class="container-education"&gt;
- &lt;div class="row rad-fade-down"&gt;
- &lt;div class="col-12"&gt;
- &lt;h2&gt;Formal Education (education-list)&lt;/h2&gt;
- &lt;div class="row pt-2 pt-md-4"&gt;
- 
- &lt;div class="col-12 col-sm-6 mb-4 mb-sm-0"&gt;
- &lt;div class="education"&gt;
- &lt;div class="education__date"&gt;2009-2012&lt;/div&gt;
- &lt;div class="education__title"&gt;High School of Hard Knocks&lt;/div&gt;
- &lt;div class="education__degree"&gt;High School Diploma, Sciences, Math, Computer &amp;amp; Business Studies&lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- 
- &lt;div class="col-12 col-sm-6 mb-4 mb-sm-0"&gt;
- &lt;div class="education"&gt;
- &lt;div class="education__date"&gt;2012-2017&lt;/div&gt;
- &lt;div class="education__title"&gt;University of Life&lt;/div&gt;
- &lt;div class="education__degree"&gt;Bachelor of Applied Science (BASc), Electrical Engineering&lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- 
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-
-
-
-
-
-
-
-
- 
- 
- 
-
-
-&lt;section id="experience-single" class="section-experience section section--border-bottom rad-animation-group flex-grow-1"&gt;
- &lt;div class="row flex-column-reverse flex-md-row rad-fade-down"&gt;
- &lt;div class="experience-list col-12 col-md-6"&gt;
- &lt;h2&gt;
- 
- My job experience (title)
- 
- &lt;/h2&gt;
-
- 
- 
-
- 
-
- 
-
- 
-
- 
- &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-3/" class="experience__link"&gt;
- &lt;div class="experience__header"&gt;
- 
- 
- &lt;div class="experience__meta"&gt;
- &lt;div class="experience__date"&gt;2024-now&lt;/div&gt;
- &lt;div class="experience__title"&gt;CIO&lt;/div&gt;
- &lt;div class="experience__company"&gt;
- Internet Affairs Inc. .
- &lt;span class="experience__location"&gt;Stavanger, Norway&lt;/span&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="experience__description d-none d-print-block"&gt;
- &lt;h1&gt;Job #3&lt;/h1&gt;
- 3rd job: CIO As Chief Information Officer at Internet Affairs Inc., I lead the strategic transformation of our digital infrastructure and cybersecurity initiatives. My team of 150+ IT professionals works tirelessly to protect and optimize our global network spanning 23 countries.
-During my tenure, I&amp;rsquo;ve spearheaded the implementation of a revolutionary blockchain-based verification system that reduced fraudulent transactions by 87% while improving processing speeds by 300%. This initiative saved the company $12M annually and earned us the prestigious &amp;ldquo;Digital Innovation Award 2024&amp;rdquo;.
-I&amp;rsquo;m particularly proud of our &amp;ldquo;Green Computing&amp;rdquo; program which has successfully migrated 75% of our data centers to renewable energy sources. This environmental initiative not only reduced our carbon footprint by 45% but also resulted in a 30% reduction in operational costs.
-In my role, I also serve as a member of the executive board, helping shape the company&amp;rsquo;s long-term technology vision and ensuring our IT strategy aligns perfectly with our business objectives. Currently leading an ambitious AI integration project that promises to revolutionize our customer service capabilities.
-
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
- &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-3.es-copy/" class="experience__link"&gt;
- &lt;div class="experience__header"&gt;
- 
- 
- &lt;div class="experience__meta"&gt;
- &lt;div class="experience__date"&gt;2024-ahora&lt;/div&gt;
- &lt;div class="experience__title"&gt;Director Ejecutivo&lt;/div&gt;
- &lt;div class="experience__company"&gt;
- Internet Affairs Inc..
- &lt;span class="experience__location"&gt;Stavanger, Noruega&lt;/span&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="experience__description d-none d-print-block"&gt;
- &lt;h1&gt;Trabajo #3&lt;/h1&gt;
- Arreglando el mundo, un byte a la vez ¡Adquisición hostil - ¿quién es el jefe ahora?!
-
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
- &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-2/" class="experience__link"&gt;
- &lt;div class="experience__header"&gt;
- 
- 
- &lt;div class="experience__meta"&gt;
- &lt;div class="experience__date"&gt;2023-2024&lt;/div&gt;
- &lt;div class="experience__title"&gt;Chief Intern&lt;/div&gt;
- &lt;div class="experience__company"&gt;
- Internet Affairs Inc. .
- &lt;span class="experience__location"&gt;Stavanger, Norway&lt;/span&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="experience__description d-none d-print-block"&gt;
- &lt;h1&gt;Job #2&lt;/h1&gt;
- 2nd job: Chief Intern As Chief Intern at Internet Affairs Inc., I led several key initiatives that helped streamline our internal processes and boost productivity. Working closely with cross-functional teams, I developed and implemented an automated documentation system that reduced report generation time by 65% and improved accuracy by 40%.
-During my internship, I spearheaded the company&amp;rsquo;s first-ever &amp;ldquo;Innovation Lab&amp;rdquo; program, where I mentored junior interns and coordinated weekly brainstorming sessions. This initiative resulted in three patent-pending solutions and garnered attention from senior management. The program has since been adopted as a permanent fixture in the company&amp;rsquo;s internship structure.
-My most significant achievement was the successful implementation of a machine learning algorithm that optimized our resource allocation system. This project not only improved resource utilization by 35% but also led to my eventual promotion to CIO. I also actively participated in community outreach programs, organizing coding workshops for local high school students and contributing to the company&amp;rsquo;s STEM education initiatives.
-
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
- &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-1/" class="experience__link"&gt;
- &lt;div class="experience__header"&gt;
- 
- 
- 
- &lt;img 
- src="http://localhost:1313/images/experience/internet-affairs_hu_c3e642ec43df5fb9.webp" 
- alt=" logo"
- class="experience__company-logo"
- loading="lazy"
- /&gt;
- 
- &lt;div class="experience__meta"&gt;
- &lt;div class="experience__date"&gt;2022-2024&lt;/div&gt;
- &lt;div class="experience__title"&gt;Junior Intern&lt;/div&gt;
- &lt;div class="experience__company"&gt;
- Internet Affairs Inc. .
- &lt;span class="experience__location"&gt;Stavanger, Norway&lt;/span&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="experience__description d-none d-print-block"&gt;
- &lt;h1&gt;Job #1&lt;/h1&gt;
- 1st job: Junior Intern The beginning of a great career. As a Junior Intern at Internet Affairs Inc., I had the opportunity to work on various projects that helped me develop my technical and professional skills. Working alongside experienced developers, I contributed to the company&amp;rsquo;s core web applications and learned industry best practices in software development.
-During my internship, I took the initiative to create an internal documentation wiki that improved knowledge sharing across teams. This project taught me valuable lessons in technical writing and collaboration. I also participated in code reviews and daily stand-ups, gaining firsthand experience in agile development methodologies.
-My most notable achievement was developing an automated testing script that reduced QA time by 25%. This project not only improved team efficiency but also demonstrated my ability to identify problems and implement effective solutions. Additionally, I actively participated in the company&amp;rsquo;s mentorship program, where I helped onboard new interns and shared my growing knowledge with peers.
-Through these experiences, I built a strong foundation in software development and professional collaboration, setting the stage for my advancement to more senior roles within the company.
-
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
-
- 
- &lt;/div&gt;
- &lt;div class="experience-description col-12 col-md-6"&gt;
- 
- 
-
-
-
-
-
-
-
-
-
-&lt;div class="container-experience"&gt;
- &lt;div class="row"&gt;
- &lt;h2&gt;Intro (intro_title)&lt;/h2&gt;
- &lt;div class="lead"&gt;Description (intro_description).&lt;br&gt;You can use HTML,with &lt;strong&gt;strong&lt;/strong&gt; formatting, or lists &lt;ul&gt;&lt;li&gt;one&lt;/li&gt;&lt;li&gt;two&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
- &lt;/div&gt;
-
- &lt;div class="row"&gt;
- 
- &lt;div class="col-12 col-lg-4"&gt;
- &lt;a
- href='https://example.com'
- class="btn btn-primary btn-block w-100"
- target="_blank"
- rel="noopener noreferrer"
- &gt;
- &lt;i class="icon-globe"&gt;&lt;/i&gt;
- (1) Visit Example
- &lt;i class="icon-arrow-right"&gt;&lt;/i&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
-
- 
- &lt;div class="col-12 col-lg-4"&gt;
- &lt;a
- href='http://localhost:1313/skills'
- class="btn btn-frameless w-100"
- target="_blank"
- rel="noopener noreferrer"
- &gt;
- 
- (2) Skills
- &lt;/a&gt;
- &lt;/div&gt;
- 
-
- 
- &lt;div class="col-12 col-lg-4"&gt;
- &lt;a
- href='http://localhost:1313/experience'
- class="btn btn-frameless w-100"
- rel="noopener noreferrer"
- &gt;
- 
- View all
- &lt;/a&gt;
- &lt;/div&gt;
- 
- &lt;/div&gt;
-&lt;/div&gt;
-
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-
-
-
-
-
-
-
-
-
-&lt;section id="experience-list-shortcode" class="section-experience section section--border-bottom rad-animation-group flex-grow-1 "&gt;
- &lt;div class="row flex-column-reverse flex-md-row rad-fade-down"&gt;
- &lt;div class="experience-list col-12 mt-5 mt-sm-0"&gt;
- 
- &lt;h2 class="section__title mb-4"&gt;Experience (as list)&lt;/h2&gt;
- 
- 
- 
-
- 
-
- 
- &lt;div class="experience row"&gt;
- &lt;div class="experience__header col-12 col-md-3 d-flex align-items-start"&gt;
- 
- 
- &lt;div class="experience__meta"&gt;
- &lt;div class="experience__date"&gt;2024-now&lt;/div&gt;
- &lt;div class="experience__title"&gt;CIO&lt;/div&gt;
- &lt;div class="experience__company"&gt;Internet Affairs Inc. . &lt;span class="experience__location"&gt;
- Stavanger, Norway&lt;/span&gt;&lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="experience__description d-print-block col-12 col-md-9 mt-3 mt-md-0"&gt;
- &lt;h1&gt;Job #3&lt;/h1&gt;
- &lt;h2 id="3rd-job-cio"&gt;3rd job: CIO&lt;/h2&gt;
-&lt;p&gt;As Chief Information Officer at Internet Affairs Inc., I lead the strategic transformation of our digital infrastructure and cybersecurity initiatives. My team of 150+ IT professionals works tirelessly to protect and optimize our global network spanning 23 countries.&lt;/p&gt;</description></item></channel></rss>
+ &lt;p&gt;Ich begleite Unternehmen dabei, komplexe Infrastrukturen in skalierbare Cloud- und Container-Landschaften zu überführen – von der Idee bis zum laufenden Betrieb. Aus der Praxis von SVA kenne ich die Herausforderungen großer Transformationsvorhaben ebenso wie die Bedeutung schneller, sicherer Delivery-Pipelines.&lt;/p&gt;</description></item></channel></rss>

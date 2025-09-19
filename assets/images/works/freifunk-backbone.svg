@@ -1,0 +1,20 @@
+<svg width="540" height="360" viewBox="0 0 540 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title>Freifunk Community Backbone</title>
+  <defs>
+    <radialGradient id="ffBg" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#FEE440" />
+      <stop offset="100%" stop-color="#F15BB5" />
+    </radialGradient>
+  </defs>
+  <rect width="540" height="360" rx="24" fill="#2E1A47" />
+  <g transform="translate(270 180)">
+    <circle r="140" fill="url(#ffBg)" opacity="0.25" />
+    <circle r="90" fill="url(#ffBg)" opacity="0.45" />
+    <circle r="40" fill="url(#ffBg)" opacity="0.9" />
+    <g stroke="#2E1A47" stroke-width="4" stroke-linecap="round">
+      <path d="M-120 -60l60 40-20 80-70-20z" fill="none" />
+      <path d="M80 -100l60 40-50 90-70-20z" fill="none" />
+    </g>
+  </g>
+  <text x="270" y="320" text-anchor="middle" font-family="'Inter', 'Helvetica Neue', Arial" font-size="22" fill="#F8F9FF">Community Mesh &amp; Gateway Betrieb</text>
+</svg>

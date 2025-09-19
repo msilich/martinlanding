@@ -1,0 +1,17 @@
+<svg width="220" height="70" viewBox="0 0 220 70" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title>Cloud Landing Zones</title>
+  <defs>
+    <linearGradient id="cloudGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3E7FC1" />
+      <stop offset="100%" stop-color="#52B2C4" />
+    </linearGradient>
+  </defs>
+  <rect rx="12" ry="12" x="1" y="1" width="218" height="68" fill="#0C2D48" />
+  <g transform="translate(20 18)">
+    <path d="M40 27c-7 0-12-5-12-11 0-5 3-9 8-10 2-4 6-6 10-6 6 0 11 4 12 9 6 1 11 6 11 12 0 7-6 12-13 12H40z" fill="url(#cloudGradient)" />
+    <rect x="70" y="6" width="6" height="30" rx="3" fill="#9EEAF9" />
+    <rect x="84" y="14" width="6" height="22" rx="3" fill="#9EEAF9" />
+    <rect x="98" y="10" width="6" height="26" rx="3" fill="#9EEAF9" />
+  </g>
+  <text x="118" y="43" font-family="'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#F4F7FB" text-anchor="middle">Landing Zones</text>
+</svg>

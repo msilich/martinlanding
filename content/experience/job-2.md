@@ -1,17 +1,20 @@
 ---
-date: 2023-12-01T00:00:00+01:00
+date: 2021-07-01T00:00:00+02:00
 draft: false
-title: "Job #2"
-jobTitle: "Chief Intern"
-company: "Internet Affairs Inc. "
-location: "Stavanger, Norway"
-duration: "2023-2024"
-
+title: "Projektleiter & IT-Berater"
+jobTitle: "Projektleiter & IT-Berater"
+company: "SVA System Vertrieb Alexander GmbH"
+location: "Berlin, Deutschland"
+duration: "Juli 2021 – Okt. 2023"
+companyLogo: "images/experience/sva.png"
 ---
-## 2nd job: Chief Intern
+## SVA System Vertrieb Alexander GmbH
 
-As Chief Intern at Internet Affairs Inc., I led several key initiatives that helped streamline our internal processes and boost productivity. Working closely with cross-functional teams, I developed and implemented an automated documentation system that reduced report generation time by 65% and improved accuracy by 40%.
+Vor meinem Wechsel in die Senior-Rolle habe ich Cloud- und Modernisierungsprojekte operativ verantwortet. Dabei habe ich Anforderungen in lieferfähige Inkremente gegossen und Delivery-Teams mit klaren Prioritäten versorgt.
 
-During my internship, I spearheaded the company's first-ever "Innovation Lab" program, where I mentored junior interns and coordinated weekly brainstorming sessions. This initiative resulted in three patent-pending solutions and garnered attention from senior management. The program has since been adopted as a permanent fixture in the company's internship structure.
+- Einführung einer hybriden Plattformarchitektur inkl. Anbindung bestehender Rechenzentrumsservices
+- Aufbau eines Projekt- und Serviceportfolios für containerbasierte Workloads
+- Moderation von Architektur- und Security-Boards sowie Schulungsprogramme für Betriebsteams
+- KPI-basierte Steuerung von Budget, Kapazitäten und Liefergeschwindigkeit
 
-My most significant achievement was the successful implementation of a machine learning algorithm that optimized our resource allocation system. This project not only improved resource utilization by 35% but also led to my eventual promotion to CIO. I also actively participated in community outreach programs, organizing coding workshops for local high school students and contributing to the company's STEM education initiatives.
+Das Ergebnis: schnellere Release-Zyklen, reproduzierbare Umgebungen und zufriedene Stakeholder.

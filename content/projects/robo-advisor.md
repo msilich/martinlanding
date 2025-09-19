@@ -1,21 +1,18 @@
 ---
-date: '2024-08-25T09:53:42+02:00' # date in which the content is created - defaults to "today"
-title: 'Robo Advisor'
-draft: false # set to "true" if you want to hide the content 
+date: '2024-08-25T09:53:42+02:00'
+title: 'Campus Kubernetes Plattform'
+draft: false
 
-link: "https://www.adrianmoreno.info" # optional URL to link the logo to
+link: "#campus-platform"
 
 params:
     button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "https://www.adrianmoreno.info"
+        btnText: "Highlights"
+        URL: "#contact"
     image:
-        src: "images/works/robo-advisor.jpg"
-        scale: 0.5
-    
-
-## The content is used for the description of the project
+        src: "images/works/campus-platform.png"
+        scale: 0.6
 ---
 
-Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard.
+Gemeinsam mit der TU Berlin entstand eine containerbasierte Plattform für Forschungsteams. GitOps, Self-Service und Observability sorgen dafür, dass neue Anwendungen schnell live gehen, ohne Sicherheit oder Budget zu gefährden.

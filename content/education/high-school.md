@@ -1,10 +1,10 @@
 ---
-date: '2024-08-25T09:53:42+02:00' # date in which the content is created - defaults to "today"
-title: 'High School of Hard Knocks'
-draft: false # set to "true" if you want to hide the content 
+date: '2024-08-25T09:53:42+02:00'
+title: 'Technische Universität Berlin'
+draft: false
 
-university: "High School of Hard Knocks"
-year: "2009-2012"
-degree: "High School Diploma, Sciences, Math, Computer & Business Studies"
+university: "Technische Universität Berlin"
+year: "2015–2021"
+degree: "Bachelor of Science (B. Sc.), Wirtschaftsinformatik"
 
 ---
